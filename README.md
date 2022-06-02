@@ -1,0 +1,2 @@
+# MobileNet_GhostNet_DenseNet_ResNet_Vgg_Yolov4
+主干特征提取网络为MobileNet_GhostNet_DenseNet_ResNet_Vgg的Yolov4
